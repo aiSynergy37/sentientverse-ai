@@ -163,11 +163,6 @@ export default function Page() {
                   <Mail className="h-5 w-5" />
                   <span className="text-sm">m.econyale@gmail.com</span>
                 </div>
-
-                <p className="text-sm text-zinc-400">
-                  Founders: <span className="text-zinc-200">K Chandana</span> &{" "}
-                  <span className="text-zinc-200">Mithilesh K</span>
-                </p>
               </div>
             </div>
 
